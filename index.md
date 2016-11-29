@@ -4,7 +4,7 @@ title: Jessica Minnier
 permalink: / 
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %} 
+{% include image.html url="images/photo.jpg" caption="" max_width="200px" align="right" %} 
  
 I am an Assistant Professor of Biostatistics at Oregon Health & Sciences University. I am
 a faculty member of the OHSU-PSU School of Public Health with appointments in the Knight
