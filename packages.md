@@ -4,6 +4,7 @@ permalink: /packages/
 title: R Packages and Code
 ---
 
+
 See my
 <i class='fa fa-github-alt'></i> <a href="https://github.com/jminnier">
 github page</a> for source code.
@@ -81,3 +82,7 @@ The font is [Rubik](https://fonts.google.com/specimen/Rubik) from [Google Fonts]
 <div class="list-group">
   <a class="list-group-item" href="https://github.com/jminnier/jminnier.github.io"><i class="fa fa-github-square fa-fw" aria-hidden="true"></i>&nbsp; github jminnier/jminnier.github.io</a><br>
 </div>
+
+
+{% include image.html url="/images/Phoebe.jpg" caption="" max-width="90%" align="bottom" %} 
+

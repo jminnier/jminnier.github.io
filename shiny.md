@@ -9,9 +9,9 @@ See my
 github page</a> for source code.
 
 
-## START App
+## START - Shiny Transcriptome Analysis Tool
 
-START - Shiny Transcriptome Analysis Tool - allows users to upload their gene (or protein, miRNA, etc) expression data
+START app allows users to upload their gene (or protein, miRNA, etc) expression data
 and interactively explore and visualize the data and analysis results. It provides simple analysis pipelines as well as
 the ability to visualize already analyzed data.
 
