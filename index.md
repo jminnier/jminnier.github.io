@@ -21,7 +21,7 @@ I am also interested in statistical computing (mostly in R), reproducible resear
 I teach Mathematics/Statistics II, a statistical inference course for the [MS in Biostatistics program](http://ohsu-psu-sph.org/index.php/ms-in-biostatistics/)
 at OHSU-PSU School of Public Health.
 
-I have an A.M. and Ph.D. in Biostatistics from [Harvard University](https://www.hsph.harvard.edu/biostatistics/) and a B.S. in Mathematics and minor in Computer
+I have an A.M. and Ph.D. in Biostatistics from [Harvard University](https://www.hsph.harvard.edu/biostatistics/) and a B.A. in Mathematics with minor in Computer
 Science from [Lewis & Clark College](https://college.lclark.edu/departments/mathematical_sciences/).
 
 minnier [at] ohsu [dot] edu
