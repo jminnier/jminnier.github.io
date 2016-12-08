@@ -16,9 +16,7 @@
 title: Jessica Minnier, Ph.D.
 email: minnier@ohsu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I'm an assistant professor of biostatistics at OHSU with research interests
-  in risk prediction, statistical genetics, and high dimensional data analysis. Topics on my site
-  include my statistical research interests, R, shiny, and teaching mathematical inference.
+  Jessica Minnier, Ph.D.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jessicaminnier.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: datapointier
