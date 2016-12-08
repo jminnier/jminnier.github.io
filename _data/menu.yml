@@ -14,7 +14,7 @@
   subcategories:
     - subtitle: "Shiny apps"
       subhref: "/shiny/"
-    - subtitle: "Packages"
+    - subtitle: "Packages & Code"
       subhref: "/packages/"
 
 - title: "Teaching"
@@ -25,6 +25,8 @@
       subhref: "/rnaseq_nano/"
     - subtitle: "Intro to Biostats"
       subhref: "/intro_biostats/"
+    - subtitle: "Other"
+      subhref: "/teaching_other/"
 
 - title: "Misc"
   subcategories:

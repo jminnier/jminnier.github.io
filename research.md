@@ -5,8 +5,10 @@ title: Research
 ---
 
 
-
 ## Research Interests
+
+{% include image.html url="/images/vermont.jpg" caption="" height="400px" align="right" %} 
+
 
 My statistical research focuses on the development and evaluation of 
 risk prediction models as well as the

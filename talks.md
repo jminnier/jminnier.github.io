@@ -7,3 +7,7 @@ title: Talks
 Some of my talk slides are up on [Rpubs/minnier](https://rpubs.com/minnier/)
 
 (site under construction)
+
+
+Math, Stats, and CS in Public Health and Medical Research
+- Lewis & Clark Math Colloquium, March 19, 2014
