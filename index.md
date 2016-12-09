@@ -24,7 +24,7 @@ at OHSU-PSU School of Public Health.
 I have an A.M. and Ph.D. in Biostatistics from [Harvard University](https://www.hsph.harvard.edu/biostatistics/) and a B.A. in Mathematics with minor in Computer
 Science from [Lewis & Clark College](https://college.lclark.edu/departments/mathematical_sciences/).
 
-minnier [at] ohsu [dot] edu
+<i class="fa fa-envelope" aria-hidden="true"></i> minnier [at] ohsu [dot] edu
 
 
 
