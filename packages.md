@@ -78,6 +78,8 @@ Therefore, it must be the worst.
 The font is [Rubik](https://fonts.google.com/specimen/Rubik) from [Google Fonts](https://fonts.google.com). Rubik is a sans serif font
  family with slightly rounded corners designed by Philipp Hubert and Sebastian Fischer at Hubert & Fischer as part of the Chrome Cube Lab project.
 
+Most icons are from [Font Awesome](http://fontawesome.io). <i class="fa fa-rocket" aria-hidden="true"></i> <i class="fa fa-area-chart" aria-hidden="true"></i> <i class="fa fa-github-alt" aria-hidden="true"></i>
+<i class="fa fa-hand-lizard-o" aria-hidden="true"></i> <i class="fa fa-leaf" aria-hidden="true"></i>
 
 <div class="list-group">
   <a class="list-group-item" href="https://github.com/jminnier/jminnier.github.io"><i class="fa fa-github-square fa-fw" aria-hidden="true"></i>&nbsp; github jminnier/jminnier.github.io</a><br>
