@@ -8,7 +8,7 @@ permalink: /
 
 {% include icon-github.html username="jminnier" %} /
 {% include icon-twitter.html username="datapointier" %} /
-<i class='fa fa-fire'></i> <a href="http://bit.ly/minnier-ohsu">ohsu website</a>
+<i class='fa fa-fire'></i> <a href="https://bit.ly/minnier-ohsu">ohsu website</a>
 
 I am an Assistant Professor of Biostatistics at Oregon Health & Sciences University. I am
 a faculty member of the [OHSU-PSU School of Public Health](http://ohsu-psu-sph.org/) with appointments in the Knight

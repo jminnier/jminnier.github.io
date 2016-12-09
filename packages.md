@@ -26,12 +26,12 @@ The functions in this code can be used to obtain confidence intervals for regres
 
 Code to implement simulations and data analyses from:
 
-*Minnier J*, Tian L, Cai T. (2011). [A Perturbation Method for Inference on Regularized Regression Estimates](http://amstat.tandfonline.com/doi/abs/10.1198/jasa.2011.tm10382).
+*Minnier J*, Tian L, Cai T. (2011). [A Perturbation Method for Inference on Regularized Regression Estimates](https://amstat.tandfonline.com/doi/abs/10.1198/jasa.2011.tm10382).
 Journal of the American Statistical Association, 106(496), 1371-1382.
 
 <div class="list-group">
   <a class="list-group-item" href="https://github.com/jminnier/ptb-beta-paper"><i class="fa fa-github-square fa-fw" aria-hidden="true"></i>&nbsp; github jminnier/ptb-beta-paper</a><br>
-  <a class="list-group-item" href="http://amstat.tandfonline.com/doi/abs/10.1198/jasa.2011.tm10382"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i>&nbsp; JASA Publication</a>
+  <a class="list-group-item" href="https://amstat.tandfonline.com/doi/abs/10.1198/jasa.2011.tm10382"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i>&nbsp; JASA Publication</a>
 </div>
 
 ## Reproducible Research - OHSU Knight Biostatistics Shared Resource
