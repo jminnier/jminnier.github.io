@@ -1,6 +1,7 @@
 ---
 layout: page 
 title: Jessica Minnier 
+analytics: true
 permalink: / 
 ---
  
