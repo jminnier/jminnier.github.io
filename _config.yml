@@ -18,10 +18,10 @@ email: minnier@ohsu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Jessica Minnier, Ph.D.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jessicaminnier.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://jessicaminnier.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: datapointier
 github_username:  jminnier
-sourcecode: "https://github.com/jminnier/jminnier.github.io"
+sourcecode: "http://github.com/jminnier/jminnier.github.io"
 analytics.provider: "custom"
 
 # Build settings
