@@ -94,7 +94,45 @@ simulation studies to answer the research questions of interest.
 
 ## Ongoing Research Support
 
-R21-NS094833-01, DHHS/NIH/IGNITE Stenzel-Poore (PI)
+
+R01-HL123762, NIH/NHLBI Lindner (PI), Co-Investigator 
+
+*Augmentation of Tissue Perfusion in PAD with Ultrasound-mediated
+Cavitation*
+
+> The major goal of this project is to explore how ultrasound-mediated
+cavitation of microbubble contrast agents can produce augmentation in
+tissue perfusion, and to assess the mechanism by which flow increases.
+
+
+17GRNT33670428,  AHA Tereshchenko (PI), Co-Investigator
+
+*Global electrical heterogeneity and clinical outcomes*
+
+>The goal of this proposal is to validate global electrical heterogeneity sudden cardiac 
+death risk score in OHSU health care population.
+
+
+17GRNT33670334,  AHA Broberg (PI), Co-Investigator
+
+*The Systemic Right Ventricle: Risks and Outcomes of Congestive Heart Failure*
+
+>The goal of this project is see the risks and Outcomes of Congestive Heart 
+Failure in patients with a Systemic Right Ventricle.
+
+P30 CA69533-16, NIH/NCI Druker (PI), Faculty
+
+*OHSU Knight Cancer Institute*
+
+>To support the Cancer Institute at Oregon Health & Science University,
+its programs, shared resources, and administration. Shared resources
+include; cancer pathology, flow cytometry, molecular biology,
+transgenic/gene knockout, gene array, clinical research management,
+biostatistics and informatics. The instruments of the Institute foster
+interdisciplinary coordination and collaboration of cancer research
+faculty at OHSU in basic, clinical, and population research.
+
+R21-NS094833-01, DHHS/NIH/IGNITE Stenzel-Poore (PI), Biostatistician
 
 *Development of Poly ICLC for neuroprotection against ischemic brain
 injury*
@@ -105,17 +143,10 @@ primate stroke model, allowing for eventual translation into patients at
 risk of brain ischemic injury.
 
 
-R01-HL123762, NIH/NHLBI Lindner (PI) 
 
-*Augmentation of Tissue Perfusion in PAD with Ultrasound-mediated
-Cavitation*
+## Completed Research Support
 
-> The major goal of this project is to explore how ultrasound-mediated
-cavitation of microbubble contrast agents can produce augmentation in
-tissue perfusion, and to assess the mechanism by which flow increases.
-
-
-14NSBRI1-0025, NSBRI Lindner (PI) 
+14NSBRI1-0025, NSBRI Lindner (PI), Co-Investigator
 
 *Biomarker assessment for identifying heightened risk for cardiovascular
 complications during long-duration space missions*
@@ -130,7 +161,7 @@ bioinformaticians on managing the data and performing statistical
 analyses.
 
 
-U01 CA185094, NIH/NCI Peters (PI) 
+U01 CA185094, NIH/NCI Peters (PI), Site PI
 
 *Colorectal Tumor Risk Prediction in the PLCO Trial*
 
@@ -140,21 +171,6 @@ and environmental risk factors, to build and validate a comprehensive
 risk-prediction model using data from a large CRC consortium and the
 PLCO trial as an independent validation study. As Co-I, I participate in
 the development of the models and the statistical advisory of the study.
-
-
-P30 CA69533-16, NIH/NCI Druker (PI) 
-
-*OHSU Knight Cancer Institute*
-
->To support the Cancer Institute at Oregon Health & Science University,
-its programs, shared resources, and administration. Shared resources
-include; cancer pathology, flow cytometry, molecular biology,
-transgenic/gene knockout, gene array, clinical research management,
-biostatistics and informatics. The instruments of the Institute foster
-interdisciplinary coordination and collaboration of cancer research
-faculty at OHSU in basic, clinical, and population research.
-
-## Completed Research Support
 
 T32 AI007358-23 Pagano (PI) 
 
