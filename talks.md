@@ -1,11 +1,23 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: Workshops and Talks
 ---
 
-Some of my talk slides are up on [Rpubs/minnier](https://rpubs.com/minnier/)
+## Workshops
 
+[R Bootcamp on Data Camp](https://www.datacamp.com/courses/rbootcamp) This is an interactive online course developed by [Ted Laderas](http://laderast.github.io/) 
+and I to learn R, elements of the `tidyverse`, and some basic statistical analysis using the R package `broom`. It is free though you must register for a Data Camp account.
+We presented this workshop as a part of the [BioData Club](https://biodata-club.github.io/) at OHSU.
+
+[Exploratory Data Analysis and Statistics with LearnR](https://github.com/laderast/DSIExplore) This is the repository for the Exploratory Data Analysis and Statistics 
+workshops for the OHSU Data Science Institute, developed by [Ted Laderas](http://laderast.github.io/) and I.
+You can install the package `DSIExplore` from [Github](https://github.com/laderast/DSIExplore) or find the interactive modules online: 
+[Part 1: categorical data](https://minnier.shinyapps.io/ODSI_categoricalData/) and [Part 2: continuous data](https://minnier.shinyapps.io/ODSI_continuousData/).
+
+## Talks
+
+Some of my talk slides are up on [Rpubs/minnier](https://rpubs.com/minnier/).
 
 
 [emrselect - Automated Feature Selection of Predictors in Electronic Medical Records Data.](http://rpubs.com/minnier/wwc-emrselect) 

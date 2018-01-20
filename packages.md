@@ -9,6 +9,13 @@ See my
 <i class='fa fa-github-alt'></i> <a href="https://github.com/jminnier">
 github page</a> for source code.
 
+## DSIExplore
+
+Interactive `learnr` package for teaching beginning exploratory data analysis and statistics. authors: [Ted Laderas](http://laderast.github.io/) and Jessica Minnier.
+
+<div class="list-group">
+  <a class="list-group-item" href="https://github.com/laderast/DSIExplore"><i class="fa fa-github-square fa-fw" aria-hidden="true"></i>&nbsp; github laderast/DSIexplore</a><br>
+</div>
 
 ## emrselect
 
@@ -54,7 +61,7 @@ Are journal data sharing policies meeting the mark?
 <div class="list-group">
   <a class="list-group-item" href="https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies
 "><i class="fa fa-github-square fa-fw" aria-hidden="true"></i>&nbsp; github OHSU-Library/Biomedical_Journal_Data_Sharing_Policies</a><br>
-  <a class="list-group-item" href="https://peerj.com/preprints/2588v1/"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i>&nbsp; PeerJ Preprint</a>
+  <a class="list-group-item" href="https://peerj.com/articles/3208/"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i>&nbsp; PeerJ Publication</a>
 </div>
 
 ## Omics R Utilities - OHSU Computational Biology
