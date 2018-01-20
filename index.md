@@ -18,6 +18,7 @@ My statistical research interests include risk prediction with high dimensional 
 analysis of genetic and other omics data.
 
 I am also interested in statistical computing (mostly in R), reproducible research and open science.
+I am also excited to be a [NASA Datanaut](https://open.nasa.gov/explore/datanauts/) as of [Spring 2018](https://open.nasa.gov/explore/datanauts/2018/spring-2018/) <i class="fa fa-rocket" aria-hidden="true"></i>.
 
 I teach Mathematics/Statistics II, a statistical inference course for the [MS in Biostatistics program](http://ohsu-psu-sph.org/index.php/ms-in-biostatistics/)
 at OHSU-PSU School of Public Health.
