@@ -2,6 +2,8 @@
   subcategories:
     - subtitle: "Research"
       subhref: "/research/"
+    - subtitle: "Research Support"
+      subhref: "/research_support/"
     - subtitle: "Publications"
       subhref: "/publications/"
     - subtitle: "Talks"
