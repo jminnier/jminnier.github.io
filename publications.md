@@ -20,12 +20,14 @@ for a complete and up to date list.
 - [A Perturbation Method for Inference on Regularized Regression Estimates](http://amstat.tandfonline.com/doi/abs/10.1198/jasa.2011.tm10382). *Minnier J*, Tian L, Cai T. (2011). 
 Journal of the American Statistical Association, 106(496), 1371-1382.
 
-### Genetic/Genomic
-
+### Genetic/Genomic/Proteomic
 
 - [The START App: A Web-Based RNAseq Analysis and Visualization Resource](https://doi.org/10.1093/bioinformatics/btw624). Nelson J, Sklenar J, Barnes AP, *Minnier J* (2016). 
 Bioinformatics, btw624. <i class='fa fa-github-square'></i> <a href="https://github.com/jminnier/STARTapp">
 github STARTapp</a>
+- [Extended Multiplexing of Tandem Mass Tags (TMT) Labeling Reveals Age and High Fat Diet Specific Proteome Changes in Mouse Epididymal Adipose Tissue](https://doi.org/10.1074/mcp.M116.065524).
+Plubell DL, Wilmarth PA, Zhao Y, Fenton AM, *Minnier J*, Reddy AP, Klimek J, Yang X, David LL, Pamir N. 
+Molecular & Cellular Proteomics. 2017 May 1;16(5):873-90.
 - [Gene-environment interaction involving recently identified colorectal cancer susceptibility loci](http://cebp.aacrjournals.org/content/23/9/1824). Kantor ED, Hutter CM, *Minnier J*, Berndt SI, Brenner H, Caan BJ, Campbell TP, Carlson CS, Casey G,
  Chan AT, Chang-Claude J, Chanock SJ, Cotterchio M, Du M, Duggan D, Fuchs CS, Giovannuci EL, 
  Gong J, Harrison TA, Hayes RB, Henderson BE, Hoffmeister M, Hopper JL, Jenkins MA, Jiao S,
@@ -53,6 +55,10 @@ Psychological Medicine, 42(1), 41-50.
 
 ### Cardiovascular
 
+- [Increased Coronary Tortuosity Is Associated with Increased Left Ventricular Longitudinal Myocardial Shortening](http://dx.doi.org/10.1016/j.echo.2017.06.007). 
+Oehler AC, *Minnier J*, Lindner JR. Journal of the American Society of Echocardiography. 30(10):1028-34.
+- [Threshold Effects of Circulating Angiopoietin-Like 3 Levels on Plasma Lipoproteins](https://doi.org/10.1210/jc.2016-4043). Fazio S, *Minnier J*, Shapiro MD, Tsimikas S, Tarugi P, 
+Averna MR, Arca M, Tavori H. (2017) The Journal of Clinical Endocrinology & Metabolism. 102(9):3340-8.
 - [PCSK9 association with lipoprotein (a)](http://dx.doi.org/10.1161/CIRCRESAHA.116.308811). 
 Tavori H, Christian D, *Minnier J*, Plubell D, Shaprio MD, Yeang C, Guinzioni I, 
 Croyal M, Duell BP, Lambert G, Tsimikas S, Fazio S (2016). 
@@ -75,8 +81,8 @@ Cardiology (Vol. 131, pp. 50-50)
 
 ### Open Science and Reproducibility
 
-- [Reproducible and reusable research: Are journal data sharing policies meeting the mark?](https://peerj.com/preprints/2588/)
-(Preprint) Vasilevsky NA, *Minnier J*, Haendel MA, Champieux R. 
+- [Reproducible and reusable research: Are journal data sharing policies meeting the mark?](https://peerj.com/articles/3208/)
+Vasilevsky NA, *Minnier J*, Haendel MA, Champieux R. (2017). PeerJ 5, e3208.
 
 ## Ph.D. Dissertation
 
