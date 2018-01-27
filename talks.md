@@ -19,7 +19,7 @@ You can install the package `DSIExplore` from [Github](https://github.com/ladera
 
 Some of my talk slides are up on [Rpubs/minnier](https://rpubs.com/minnier/).
 
-[Building Shiny Apps: Challenges and Responsibilities.](/talks/2018_austin/minnier_shiny_slides.html) Data Day Austin, R Day, January 27, 2018.
+[Building Shiny Apps: Challenges and Responsibilities.](https://austinshiny2018.netlify.com/minnier_shiny_slides.html) Data Day Austin, R Day, January 27, 2018.
 
 [emrselect - Automated Feature Selection of Predictors in Electronic Medical Records Data.](http://rpubs.com/minnier/wwc-emrselect) 
 [Women Who Code Portland](https://www.meetup.com/Women-Who-Code-Portland/events/235867242/), January 10, 2017. {[code for slides](https://github.com/jminnier/pres-women-who-code-pdx-emrselect) <i class="fa fa-github-alt" aria-hidden="true"></i>}
