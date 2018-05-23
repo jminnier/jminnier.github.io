@@ -19,6 +19,8 @@ You can install the package `DSIExplore` from [Github](https://github.com/ladera
 
 Some of my talk slides are up on [Rpubs/minnier](https://rpubs.com/minnier/).
 
+[Mixing Active Learning and Lecturing: Using Interactive Visualization as a Teaching Tool](https://www.causeweb.org/cause/ecots/ecots18/posters/3-03) with [Ted Laderas](http://laderast.github.io/). Virtual poster for eCOTS, May 23, 2018. {[slides](files/ecots2018slides.pdf); [virtual poster video](https://www.causeweb.org/cause/ecots/ecots18/posters/3-03)}
+
 [Building Shiny Apps: Challenges and Responsibilities.](https://austinshiny2018.netlify.com/minnier_shiny_slides.html) Data Day Austin, R Day, January 27, 2018.
 
 [emrselect - Automated Feature Selection of Predictors in Electronic Medical Records Data.](http://rpubs.com/minnier/wwc-emrselect) 
