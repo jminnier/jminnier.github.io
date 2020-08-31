@@ -11,7 +11,7 @@ permalink: /
 {% include icon-twitter.html username="datapointier" %} /
 <i class='fa fa-fire'></i> <a href="http://bit.ly/minnier-ohsu-sph">ohsu website</a>
 
-I am an Assistant Professor of Biostatistics at Oregon Health & Sciences University. I am
+I am an Associate Professor of Biostatistics at Oregon Health & Sciences University. I am
 a faculty member of the [OHSU-PSU School of Public Health](http://ohsu-psu-sph.org/) with appointments in the Knight
 Cardiovascular Institute and Knight Cancer Institute Biostatistics Shared Resource.
 My statistical research interests include risk prediction with high dimensional data sets and the
